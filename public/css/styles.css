@@ -66,7 +66,7 @@ p {
     display: inline-block;
 }
 
-form {
+form.item {
     text-align: center;
     margin-left: 0px;
 }
